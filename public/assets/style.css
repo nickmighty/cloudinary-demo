@@ -17,3 +17,8 @@ form {
     max-width: 200px;
     margin: auto;
 }
+
+img {
+    width: 150px;
+    height: 150px;
+}
